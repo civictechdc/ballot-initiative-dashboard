@@ -1,0 +1,7 @@
+# environments
+.env
+.venv
+
+## data files
+*.csv
+*.json
